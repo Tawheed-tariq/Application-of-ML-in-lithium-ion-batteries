@@ -1,4 +1,4 @@
-# Application of ML in lithium-ion-batteries
+# Descriptor-Based Machine Learning for 50th Cycle Capacity Prediction in Lithium NCM Cathodes
 
 This repository presents a study focused on predicting the electrochemical performance of doped lithium nickel-cobalt-manganese (NCM) oxide cathodes used in lithium-ion batteries (LIBs). The project explores the use of machine learning (ML) models in combination with advanced feature engineering techniques to accurately predict initial discharge capacity (IC) and 50th cycle end discharge capacity (EC).
 
